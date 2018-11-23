@@ -1,6 +1,6 @@
 # Paddock-The-Ultimate-Race-League-Manager
 
-[Preview](https://i.imgur.com/qt9MbGZ.jpg)
+![Preview](https://i.imgur.com/qt9MbGZ.jpg)
 
 Paddock 7.10beta by: Brought to you by: demontpx Last Update: 2013-04-17
 # Description
